@@ -1,0 +1,1 @@
+This small application is to practice SASS and get to know how can I add SASS in my app. 
